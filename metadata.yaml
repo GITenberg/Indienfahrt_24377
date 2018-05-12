@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9680
     wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24377#Indienfahrt
 gutenberg_bookshelf:
 - DE Prosa
 - DE Sachbuch
